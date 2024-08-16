@@ -246,7 +246,7 @@ While this template repository is licensed under the MIT license, both the Spigo
 Link to [Spigot License](https://github.com/SpigotMC/Spigot-API/blob/master/LICENCE.txt)<br>
 Link to [Paper License](https://github.com/PaperMC/Paper/blob/master/LICENSE.md)
 ##
-Copyright © 2023 Atlas Mallams
+Copyright © 2024 Atlas Mallams
 
 This repository is licensed under the MIT License.<br>
 For more information, please see [LICENSE](LICENSE).
